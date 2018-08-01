@@ -1,0 +1,63 @@
+.port-item{
+    width: 290px;
+    height: 200px;
+    background-color: #6ba6ff;
+    float: left;
+    margin-left: 40px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+
+.port-container{
+    width: 1000px;
+    margin: auto;
+}
+
+.port-container-2{
+    width: 1000px;
+    margin: auto;
+    margin-top: 30px;
+    
+}
+
+.project-intro{
+    margin: auto;
+    margin-bottom: 30px;
+    width: 510px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    color: white;
+  
+  }
+
+.project-title{
+    font-family: 'Reem Kufi', sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .project-about{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+
+  .project-madewith{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-weight: bold;
+    font-size: 17px;
+  }
+
+  .project-madewith-info{
+    color:white;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 18px;
+  }

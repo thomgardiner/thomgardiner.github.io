@@ -1,0 +1,129 @@
+#fullstack:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#designer:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#musician:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#human:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#javascript:hover{
+    /* font-weight: bolder; */
+    color: #6ba6ff;
+}
+
+#node:hover{
+    /* font-weight: bolder; */
+    color: #6ba6ff;
+}
+
+#react:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#mongo:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#mysql:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#html:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#css:hover{
+    /* font-weight: bold; */
+    color: #6ba6ff;
+}
+
+#build{
+    color: #6ba6ff;
+    cursor: pointer;
+}
+
+#build:hover{
+    color: #6ba6ff;
+    /* font-weight: bold; */
+}
+
+.icons-social{
+    width: 400px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+.fa-linkedin {
+    color: #6ba6ff;
+    font-size: 75px;
+    margin-left: 15px;
+}
+
+.fa-linkedin:hover {
+    color: white;
+}
+
+.fa-github {
+    color: #6ba6ff;
+    font-size: 75px;
+    margin-left: 15px;
+}
+
+.fa-github:hover {
+    color: #ffffff;
+}
+
+.fa-stack-overflow {
+    color: #6ba6ff;
+    font-size: 75px;
+    margin-left: 15px;
+}
+
+.fa-stack-overflow:hover {
+    color: #ffffff;
+}
+
+.fa-envelope {
+    color: #6ba6ff;
+    font-size: 75px;
+    margin-left: 15px;
+}
+
+.fa-envelope:hover {
+    color: #ffffff;
+}
+
+#thomas{
+    color: #6ba6ff;
+}
+
+#thomas:hover{
+    color: #6ba6ff;
+    /* font-weight: bold; */
+}
+
+#thomasg{
+    color: #6ba6ff;
+    font-size: 21px;
+}
+
+#thomasg:hover{
+    color: #6ba6ff;
+    /* font-weight: bold; */
+}
